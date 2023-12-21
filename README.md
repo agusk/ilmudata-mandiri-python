@@ -10,6 +10,6 @@ Selain itu, buku ini menggali lebih dalam ke aspek-aspek lanjutan seperti penang
 
 ## Cara Mendapatkan Buku Ini
 
-Buah ini tersedia di toko buku ini:
+Buku ini tersedia di toko buku ini:
 * Google Play Books: [https://play.google.com/store/books/details?id=7Q_qEAAAQBAJ](https://play.google.com/store/books/details?id=7Q_qEAAAQBAJ)
 * Lulu: [https://www.lulu.com/shop/agus-kurniawan/seri-belajar-mandiri-pemrograman-python-untuk-pemula/ebook/product-955j55y.html](https://www.lulu.com/shop/agus-kurniawan/seri-belajar-mandiri-pemrograman-python-untuk-pemula/ebook/product-955j55y.html)
